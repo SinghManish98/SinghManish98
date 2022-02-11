@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SinghManish98
 - 👀 I’m interested in Automation 
-- 🌱 I’m currently learning on Selenium with Java
+- 🌱 I’m currently learning Selenium with Java
 - 💞️ I’m looking to collaborate on Automation Project(Web Application)
 - 📫 How to reach me - "www.linkedin.com/in/singhmanish98"
 
